@@ -13,7 +13,7 @@ Completed CNC machining module as part of:
 
 ---
 
-## 🧠 Technical Competencies
+##  Technical Competencies
 
 - Absolute & Incremental Positioning (G90 / G91)
 - Linear Interpolation (G01)
@@ -63,6 +63,7 @@ G01 X20 Y0 F200
 G02 X30 Y10 I0 J10
 M05
 M30
+
 Understanding CNC programming strengthens my ability to:
 
 Manufacture precision robotic components
@@ -80,9 +81,7 @@ Optimize machining strategy for accuracy and efficiency
 
 Right now your image is probably on your computer.
 
-Do this:
 
-1. Go inside:
 
 
 
