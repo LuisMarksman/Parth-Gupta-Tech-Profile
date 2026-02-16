@@ -17,7 +17,7 @@ casting setup procedures.
 ##  Foundry & Furnace Environment
 
 <p align="center">
-  <img src="./images/open-hearth-furnace.jpg" width="600">
+  <img src="./images/sand-casting-lab.jpg" width="600">
 </p>
 
 Exposure to open hearth furnace system used for melting operations.
@@ -33,7 +33,7 @@ Key Learnings:
 ##  Sand Casting & Mold Preparation
 
 <p align="center">
-  <img src="./images/sand-casting-lab.jpg" width="600">
+  <img src="./images/open-hearth-furnace.jpg" width="600">
 </p>
 
 Hands-on experience in:
