@@ -39,7 +39,7 @@ Completed CNC machining module as part of:
 ## 🖥 Simulation & Toolpath Verification
 
 <p align="center">
-  <img src="./images/cnc-simulation.jpg" width="600">
+  <img src="./images/cnc-simulations.jpg" width="600">
 </p>
 
 Simulated contour milling program in FANUC environment to validate:
