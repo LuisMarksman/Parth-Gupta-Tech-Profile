@@ -1,1 +1,1 @@
-
+This section documents my hands-on experience in mechanical fabrication, manufacturing processes, and rapid prototyping, primarily developed through robotics projects, workshop training, and self-driven experimentation.
