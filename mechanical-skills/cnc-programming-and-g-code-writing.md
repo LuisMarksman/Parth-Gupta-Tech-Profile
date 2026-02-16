@@ -25,7 +25,7 @@ Completed CNC machining module as part of:
 
 ---
 
-## 🔍 Machining Strategy Understanding
+##  Machining Strategy Understanding
 
 - Step-down depth planning
 - Feed rate optimization
@@ -49,6 +49,26 @@ Simulated contour milling program in FANUC environment to validate:
 - Collision avoidance  
 
 ---
+
+---
+
+##  Advanced Contour Machining Simulation (Star Profile)
+
+<p align="center">
+  <img src="./images/fanuc-contour-simulation.jpg" width="600">
+</p>
+
+This program demonstrates multi-segment contour machining using 
+linear interpolation (G01) to generate a complex geometric profile.
+
+Key observations:
+
+- Multi-point coordinate control
+- Controlled Z-depth machining (-10 mm)
+- Structured contour sequencing
+- Real-time toolpath visualization
+- Machining stability during complex profile execution
+
 
 ##  Sample CNC Milling Programs
 ###  Contour Pocket Milling Example (2.5D Profile)
