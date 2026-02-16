@@ -51,7 +51,7 @@ Simulated contour milling program in FANUC environment to validate:
 
 ---
 
-## 📝 Sample G-Code Snippet
+##  Sample G-Code Snippet
 
 ```gcode
 G90 G21
