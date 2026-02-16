@@ -66,7 +66,7 @@ Tools used during fabrication process:
 ##  Casting Process Demonstration
 
 [▶️ Watch Casting Demo – Process Video 1](./images/casting-demo-1.mp4)  
-[▶️ Watch Casting Demo – Process Video 2](./images/casting-demo-2.mp4)
+[▶️ Watch Casting Demo – Process Video 2](./images/images/casting-demo-2.mp4)
 
 Videos demonstrate:
 
