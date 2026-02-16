@@ -49,7 +49,6 @@ Simulated contour milling program in FANUC environment to validate:
 - Collision avoidance  
 
 ---
-
 ---
 
 ##  Advanced Contour Machining Simulation (Star Profile)
@@ -69,6 +68,7 @@ Key observations:
 - Real-time toolpath visualization
 - Machining stability during complex profile execution
 
+---
 
 ##  Sample CNC Milling Programs
 ###  Contour Pocket Milling Example (2.5D Profile)
