@@ -1,5 +1,4 @@
 CNC Programming & G-Code Writing  
-BRI302 – Manufacturing Technology for Robotics
 ---
 
 ## Academic Training
@@ -36,7 +35,7 @@ Completed CNC machining module as part of:
 
 ---
 
-## 🖥 Simulation & Toolpath Verification
+##  Simulation & Toolpath Verification
 
 <p align="center">
   <img src="./images/cnc-simulations.jpg" width="600">
