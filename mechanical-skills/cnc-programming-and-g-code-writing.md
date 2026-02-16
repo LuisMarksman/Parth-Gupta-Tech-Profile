@@ -51,7 +51,8 @@ Simulated contour milling program in FANUC environment to validate:
 
 ---
 
-##  Contour Pocket Milling Example (2.5D Profile)
+##  Sample CNC Milling Programs
+###  Contour Pocket Milling Example (2.5D Profile)
 
 ```gcode
 %
@@ -81,4 +82,8 @@ G01 X0 Y0
 G00 Z10
 M05 (SPINDLE STOP)
 M30 (END PROGRAM)
+
 %
+```gcode
+
+### Circular Interpolation Example
