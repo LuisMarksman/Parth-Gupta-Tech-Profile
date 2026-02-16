@@ -51,40 +51,34 @@ Simulated contour milling program in FANUC environment to validate:
 
 ---
 
-##  Sample G-Code Snippet
+##  Contour Pocket Milling Example (2.5D Profile)
 
 ```gcode
-G90 G21
-T1 M06
-M03 S1000
-G00 X0 Y0 Z5
-G01 Z-2 F100
-G01 X20 Y0 F200
-G02 X30 Y10 I0 J10
-M05
-M30
+%
+O1001 (RECTANGULAR POCKET MILLING)
+G21 (METRIC UNITS)
+G17 (XY PLANE SELECTION)
+G90 (ABSOLUTE PROGRAMMING)
 
-Understanding CNC programming strengthens my ability to:
+T1 M06 (TOOL CHANGE - END MILL)
+M03 S1200 (SPINDLE ON CLOCKWISE)
+G00 X0 Y0 (RAPID TO START POSITION)
+G00 Z5 (SAFE HEIGHT)
 
-Manufacture precision robotic components
+G01 Z-2 F100 (STEP DOWN)
+G01 X50 Y0 F200
+G01 X50 Y30
+G01 X0 Y30
+G01 X0 Y0
 
-Design motor mounts and structural brackets
+G00 Z5
+G01 Z-4 F100 (SECOND PASS)
+G01 X50 Y0 F200
+G01 X50 Y30
+G01 X0 Y30
+G01 X0 Y0
 
-Convert CAD models into executable machining programs
-
-Optimize machining strategy for accuracy and efficiency
-
-
----
-
-# 📸 Step 2 — Add Your Image Properly
-
-Right now your image is probably on your computer.
-
-
-
-
-
-
-
-
+G00 Z10
+M05 (SPINDLE STOP)
+M30 (END PROGRAM)
+%
